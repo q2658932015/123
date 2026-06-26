@@ -20,8 +20,8 @@
     "IsHide":  "False",
     "IsTestingExclusive":  "False",
     "LastUpdate":  "1658532627",
-    "DownloadLinkInstall":  "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/release/BossMod/latest.zip",
-    "DownloadLinkTesting":  "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/release/BossMod/latest.zip",
-    "DownloadLinkUpdate":  "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/release/BossMod/latest.zip"
+    "DownloadLinkInstall":  "https://github.com/44451516/ffxiv_bossmod/releases/download/v7.5.0.7/latest.zip",
+    "DownloadLinkTesting":  "https://github.com/44451516/ffxiv_bossmod/releases/download/v7.5.0.7/latest.zip",
+    "DownloadLinkUpdate":  "https://github.com/44451516/ffxiv_bossmod/releases/download/v7.5.0.7/latest.zip"
   }
 ]
