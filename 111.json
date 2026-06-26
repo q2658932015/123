@@ -1,27 +1,27 @@
 [
-{
-    "Author": "Taurenkey, Kage, NightmareXIV",
-    "Name": "Saucy",
-    "Punchline": "When working for MGP is too much effort.",
-    "Description": "Automates certain Gold Saucer mini-games.",
-    "Tags": [
-      "gold saucer",
-      "mgp",
-      "automation"
+  {
+    "Author":  "veyn",
+    "Name":  "Boss Mod",
+    "InternalName":  "BossMod",
+    "AssemblyVersion": "7.5.0.9",
+    "Description":  "20260623-请支持逆光喵，谢谢喵-画得更全喵",
+    "ApplicableVersion":  "any",
+    "RepoUrl":  "https://github.com/44451516/ffxiv_bossmod",
+    "Changelog": "请支持逆光喵，谢谢喵",
+    "DalamudApiLevel":  15,
+    "LoadPriority":  0,
+    "ImageUrls":  [
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image1.png",
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image2.png",
+      "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/master/Data/image3.png"
     ],
-    "InternalName": "Saucy",
-    "RepoUrl": "https://github.com/PunishXIV/Saucy",
-    "DownloadCount": 643667,
-    "LastUpdate": 1779977986,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.0.0.10/install/testing.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.0.0.10/install/testing.zip",
-    "AssemblyVersion": "1.6.0.2",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "15",
-    "Changelog": "fix for mini cactpot",
-    "TestingAssemblyVersion": "2.0.0.10",
-    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/7/Saucy/versions/2.0.0.10/install/testing.zip",
-    "TestingDalamudApiLevel": "15",
-    "IconUrl": "https://puni.sh/api/plugins/icon/7"
+    "IconUrl":  "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
+    "Punchline":  "Don\u0027t fail at raid mechanics anymore",
+    "IsHide":  "False",
+    "IsTestingExclusive":  "False",
+    "LastUpdate":  "1658532627",
+    "DownloadLinkInstall":  "https://gh.1k.ink/https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/release/BossMod/latest.zip",
+    "DownloadLinkTesting":  "https://gh.1k.ink/https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/release/BossMod/latest.zip",
+    "DownloadLinkUpdate":  "https://gh.1k.ink/https://raw.githubusercontent.com/44451516/ffxiv_bossmod/CN/release/BossMod/latest.zip"
   }
 ]
